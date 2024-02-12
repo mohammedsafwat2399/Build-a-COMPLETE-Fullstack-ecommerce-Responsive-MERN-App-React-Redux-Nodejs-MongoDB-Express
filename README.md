@@ -19,7 +19,7 @@
 
 <div align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,react,js,github,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,tailwind,react,redux,js,nodejs,express,mongodb,github,vscode" />
   </a></div>
 
 # -Build-a-COMPLETE-Fullstack-ecommerce-Responsive-MERN-App-React-Redux-Nodejs-MongoDB-Express
