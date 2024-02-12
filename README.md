@@ -7,7 +7,7 @@ MONGODB_URL : ""
 STRIPE_SECRET_KEY : "",
 FRONTEND_URL : "",
 
-MY Backend URL : https://backend-mern-kowt.onrender.com
+MY Backend URL : https://backend-mern-v1pn.onrender.com/
 
 start : 
 
