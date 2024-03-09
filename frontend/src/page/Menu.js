@@ -27,9 +27,9 @@ const Menu = () => {
         <title>menu product</title>
         <meta name="description" content="this page is menu product page" />
       </Helmet>
-      <div className=" p-2 md:p-4 ">
-      <div className="w-ful m-auto max-w-4xl bg-white md:flex">
-        <div className=" max-w-lg p-5 shadow overflow-hidden w-full   ">
+      <div className=" p-2 md:p-4  ">
+      <div className="w-ful m-auto max-w-4xl bg-white md:flex gap-7">
+        <div className=" max-w-lg p-5 shadow overflow-hidden w-full">
           <img
             src={filterDetailsProduct.image}
             alt="product image"
